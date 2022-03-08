@@ -3,4 +3,5 @@
     <dimen name="screen_margin">24dp</dimen>
     <dimen name="spacing">25dp</dimen>
     <dimen name="button_spacing">50dp</dimen>
+    <dimen name="text_size">18sp</dimen>
 </resources>

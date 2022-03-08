@@ -50,6 +50,8 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="@string/send"
+        android:textAllCaps="false"
+        android:textSize="@dimen/text_size"
         android:layout_marginTop="@dimen/button_spacing"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
